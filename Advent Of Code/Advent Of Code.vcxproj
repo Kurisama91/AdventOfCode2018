@@ -151,6 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Advent Of Code.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
@@ -167,6 +168,8 @@
     <Text Include="day1input.txt" />
     <Text Include="day2input.txt" />
     <Text Include="day3input.txt" />
+    <Text Include="day4input.txt" />
+    <Text Include="day5input.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

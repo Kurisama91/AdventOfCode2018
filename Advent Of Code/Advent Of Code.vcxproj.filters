@@ -17,6 +17,9 @@
     <ClInclude Include="resource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Advent Of Code.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -34,6 +37,12 @@
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="day3input.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="day4input.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="day5input.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
